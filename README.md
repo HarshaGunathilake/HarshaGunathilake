@@ -1,78 +1,61 @@
-### Hey there 👋
+<div align="center">
 
-<a href="https://www.linkedin.com/in/HarshaGunathilake/" target="_blank">
-  <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a>
-<a href="https://github.com/HarshaGunathilake" target="_blank">
-  <img align="left" src="https://komarev.com/ghpvc/?username=HarshaGunathilake" alt="page views" />
-</a>
-<a href="https://github.com/HarshaGunathilake?tab=followers">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/HarshaGunathilake?color=green&logo=github">
-</a>
-<br />
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=120&section=header" width="100%"/>
 
-## 👨‍💻 About Me:
+# Harsha Gunathilake
 
-hi, i'm [Harsha Gunathilake](https://github.com/HarshaGunathilake), a passionate self-taught Full-Stack Web Developer and Freelance Software Engineer from Sri Lanka.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;TypeScript+%2B+React+%2B+Node.js;Freelance+Software+Engineer;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 
-I am a technology enthusiast who loves building clean, scalable web applications — from crafting intuitive user interfaces to architecting reliable backend systems. My strengths include problem-solving, attention to detail, and a proactive approach to delivering quality software.
+<br/>
 
-I am driven and self-motivated, continually experimenting with modern frameworks and methodologies. I take pride in writing clean, maintainable code and delivering exceptional experiences in every project I work on.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/harsha-gunathilake5/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/HarshaGunathilake)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:harshagunathilaka5@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=HarshaGunathilake&style=for-the-badge&color=0d1117&label=VIEWS&abbreviated=true)](https://github.com/HarshaGunathilake)
 
-  <img align="right" alt="GIF" src="https://github.com/lakshitha1629/lakshitha1629/blob/master/code.gif?raw=true" width="500" height="320" />
+</div>
 
-- 💼 any help? do reach, [email](mailto:your@email.com) 😊
-- 💬 ask me about anything, i am happy to help;
-<hr>
+<br/>
 
-### 🛠️ Languages and Tools:
+```typescript
+const harsha = {
+  role:     "Full-Stack Web Developer",
+  location: "Colombo, Sri Lanka 🇱🇰",
+  stack:    ["React", "TypeScript", "Node.js", "Python"],
+  status:   "Open to freelance & collaborations",
+  contact:  "harshagunathilaka5@gmail.com",
+};
+```
 
-<p align="left">
-    <!-- Frontend -->
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-    <!-- Backend -->
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-    <!-- Database & Tools -->
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-</p>
-<hr>
+<br/>
 
-### 📈 My GitHub Stats:
+<div align="center">
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://streak-stats.demolab.com?user=HarshaGunathilake&theme=tokyonight&hide_border=true"
-  />
-</p>
+### Stack
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=HarshaGunathilake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaGunathilake&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<br/><br/>
 
----
+### Stats
 
-<p align="center">
-  <i>"Code. Learn. Build. Improve."</i>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshaGunathilake&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaGunathilake&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58A6FF&text_color=8b949e" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=HarshaGunathilake&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=80&section=footer" width="100%"/>
