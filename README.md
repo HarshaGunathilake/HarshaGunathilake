@@ -21,7 +21,7 @@
 const harsha = {
   role:       "Full-Stack Developer & Software Engineer",
   education:  "MSc Computing — Merit, Wrexham University, UK",
-  experience: "4+ years",
+  experience: "5+ years",
   location:   "Colombo, Sri Lanka 🇱🇰",
   stack:      ["React", "TypeScript", "Node.js", "Angular", "Laravel", "Python"],
   interests:  ["OTT Platforms", "Ad-Tech", "SEO", "Web3"],
